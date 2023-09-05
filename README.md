@@ -15,7 +15,8 @@ A curated list of awesome publications and researchers on prompting framework up
     + [Output Restrictors of LLMs (LLM-RSTR)](#Output-Restrictors-of-LLMs)
 
 ## 💫 The Shell of LLMs
-####  [**Haystack**](https://github.com/deepset-ai/haystack) An end-to-end NLP framework that enables you to build applications powered by LLMs, Transformer models, vector search and more.
+###  [**Haystack**](https://github.com/deepset-ai/haystack) 
+An end-to-end NLP framework that enables you to build applications powered by LLMs, Transformer models, vector search and more.
 
 
 ## 💫 Language for Interaction with LLMs
