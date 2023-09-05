@@ -5,14 +5,11 @@ A curated list of awesome publications and researchers on prompting framework up
 
 ***✅ What is Prompting Framework?*** Prompting Framework is a framework for managing, simplifying, and facilitating interaction with large language models, which adheres to four essential properties: modularity, abstraction, extensibility, and standardization. .
 
-
-- Prompting Framework
-
-  * 🌟 [Related Survey](#Related-Survey)
-  * 🌟 [State-of-the-art Prompting Frameworks](#State-of-the-art-Prompting-Frameworks)
-    + [The Shell of LLMs (LLM-SH)](#The-Shell-of-LLMs)
-    + [Language for Interaction with LLMs (LLM-LNG)](#Language-for-Interaction-with-LLMs)
-    + [Output Restrictors of LLMs (LLM-RSTR)](#Output-Restrictors-of-LLMs)
+  - 🌟 [Related Survey](#Related-Survey)
+  - 🌟 [State-of-the-art Prompting Frameworks](#State-of-the-art-Prompting-Frameworks)
+    * [The Shell of LLMs (LLM-SH)](#The-Shell-of-LLMs)
+    * [Language for Interaction with LLMs (LLM-LNG)](#Language-for-Interaction-with-LLMs)
+    * [Output Restrictors of LLMs (LLM-RSTR)](#Output-Restrictors-of-LLMs)
 
 
 ## 🌟 Related-Survey
