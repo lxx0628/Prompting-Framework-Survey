@@ -1,5 +1,7 @@
 # 🦊 Prompting-Framework-Survey 
 
+A curated list of awesome publications and researchers on prompting framework updated and maintained by [The Intelligent System Security (IS2)](https://is2lab.github.io/).
+
 <div align="center">
   <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="750" />
 </div>
@@ -11,14 +13,10 @@ Recently, we have observed the trend of utilizing prompt-based tools to better u
 We also systematically depict the overall landscape of the emerging PF field and discuss potential future research and challenges. To continuously track the developments in this area, we maintain this repo, which can be a useful resource sharing platform for both academic and industry in this field. 
 
 
-
-
-
-## 🥜 In A Nutshell
-
-A curated list of awesome publications and researchers on prompting framework updated and maintained by [***The Intelligent System Security (IS2)***](https://is2lab.github.io/).
+## 🥜 In a Nutshell
 
 **📖 Paper Link**: [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
+
 **📮 Contact Details**: liuxiaoxia@zju.edu.cn
 
 Looking forward to your attention and lively discussion！ 🙋‍♂️🙋‍♀️🙋
