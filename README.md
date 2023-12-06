@@ -12,6 +12,10 @@ Recently, we have observed the trend of utilizing prompt-based tools to better u
 
 We also systematically depict the overall landscape of the emerging PF field and discuss potential future research and challenges. To continuously track the developments in this area, we maintain this repo, which can be a useful resource sharing platform for both academic and industry in this field. 
 
+<div align="center">
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/lifecycle.png" alt="timeline" width="750" />
+</div>
+
 
 ## 🥜 In a Nutshell
 
