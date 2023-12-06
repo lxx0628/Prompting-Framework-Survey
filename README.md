@@ -4,6 +4,7 @@ A curated list of awesome publications and researchers on prompting framework up
 
 <div align="center">
   <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="750" />
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/workflow.pdf" alt="workflow" width="750" />
 </div>
 
 Large language models (LLMs) have made significant advancements in both academia and industry, bringing about a fundamental engineering paradigm shift in many areas. While LLMs are powerful, it is also crucial to best use their power where "prompt"🔧 plays a core role. However, the booming LLMs themselves, including excellent APIs like ChatGPT, have several inherent limitations: 1) temporal lag of training data, and 2) the lack of physical capabilities to perform external actions. 
