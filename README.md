@@ -87,7 +87,7 @@ LLM-SH functions are much like a shell or interface layer in computer systems, e
   | [AgentVerse](https://github.com/OpenBMB/AgentVerse)   | Domain-Specific LLM-SH   | AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation.|
   | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)   | Domain-Specific LLM-SH   | A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.|
   | [Txtai](https://github.com/neuml/txtai)   | Domain-Specific LLM-SH   | All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows.|
-  | [AutoChain](https://github.com/Forethought-Technologies/AutoChain)   | Build lightweight, extensible, and testable LLM Agents.|
+  | [AutoChain](https://github.com/Forethought-Technologies/AutoChain)  | Domain-Specific LLM-SH   |  Build lightweight, extensible, and testable LLM Agents.|
   | [TermGPT](https://github.com/Sentdex/TermGPT)   | Domain-Specific LLM-SH  | Giving LLMs like GPT-4 the ability to plan and execute terminal commands.|
   | [Botpress](https://github.com/botpress/botpress)   | Domain-Specific LLM-SH   | The open-source hub to build & deploy GPT/LLM Agents.|
 
