@@ -59,17 +59,15 @@ Fingers crossed these awesome resources sprinkle some extra magic on your tasks 
 
 #### 💼 Tools for Exploring Relevant Literature
 
-| 🐾 Tool | Description | 
-  |:--------:|:--------|
+| 🐾 Tool | 🌱 Description | 
+  |:--------:|:--------:|
   | [Trending Papers](https://trendingpapers.com)   |  A useful tool to help us researchers find and explore papers worth reading first. |
-
+  | [Connected Papers](https://www.connectedpapers.com)   |  Explore academic papers in a visual graph. |
 
 #### 💼 Related Survey
 
 * [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 * [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
-
-
 
 
 ### 🔅 State-of-the-art Prompting Frameworks
