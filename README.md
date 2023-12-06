@@ -22,7 +22,17 @@ Prompting Framework is a framework for managing, simplifying, and facilitating i
 
 **📮 Contact Details**: liuxiaoxia@zju.edu.cn
 
-Looking forward to your attention and lively discussion！ 🙋‍♂️🙋‍♀️🙋
+Looking forward to your attention and lively discussion！ 
+
+Sincerely welcome:
+
+🙋‍♂️ Share good prompting frameworks with us!
+
+🙋‍♀️ Share your experience of using different prompting frameworks and your urgent needs and services!
+
+🙋 Brainstorm the future shape of prompting frameworks！
+
+and more ...
 
 ## 🦄 Update Log
 
@@ -37,22 +47,45 @@ Looking forward to your attention and lively discussion！ 🙋‍♂️🙋‍�
   - 🔅 [Key Components of Prompting Frameworks](#Key-Components-of-Prompting-Frameworks)
 
 ### 🌟 Related-Survey
+
+Fingers crossed these awesome surveys sprinkle some extra magic on your tasks too! 💼
+
 * [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 * [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 
 
 
 
-### 🌟 State-of-the-art Prompting Frameworks
-#### 💫 The Shell of LLMs
-[**Haystack**](https://github.com/deepset-ai/haystack) 
-An end-to-end NLP framework that enables you to build applications powered by LLMs, Transformer models, vector search and more.
+### 🔅 State-of-the-art Prompting Frameworks
+
+Taking into consideration the technical features, design objectives, and application scenarios, the current prompting framework can be broadly covered by three types: The Shell of LLMs (LLM-SH), Language for Interaction with LLMs (LLM-LNG), and Output Restrictors of LLMs (LLM-RSTR). The rationale behind designing the prompting framework is to facilitate the interaction between LLMs and the external world, and different types of prompting frameworks manifest this enhancement effect from different perspectives. 
+
+#### The Shell of LLMs
+
+LLM-SH functions are much like a shell or interface layer in computer systems, emphasizing interaction with LLMs by facilitating their engagement with highly capable third parties, thereby enabling stronger interaction between LLMs, users, and external models.
 
 
+| 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
+|:--------:|:-------:|:--------:|
+| [Haystack](https://github.com/deepset-ai/haystack)   | Universal LLM-SH   | LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [langchain](https://github.com/langchain-ai/langchain)   | Universal LLM-SH   | Building applications with LLMs through composability.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
 
 
-### 💫 Language for Interaction with LLMs
+### Language for Interaction with LLMs
 
-### 💫 Output Restrictors of LLMs
+LLM-LNG, on the other hand, is designed to create a language (programming or pseudo-language) for interaction with LLMs, focusing on providing users with a more concise and compact interaction channel.
 
+### Output Restrictors of LLMs
+
+LLM-RSTR, meanwhile, achieves controlled generation by emphasizing interactions with LLMs that are of higher quality and better aligned with requirements.
 
