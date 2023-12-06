@@ -4,7 +4,7 @@ A curated list of awesome publications and researchers on prompting framework up
 ![timeline](https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png)
 
 <div style="text-align:center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="300" height="200"/>
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="800" height="600"/>
 </div>
 
 ## Prompting Framework
