@@ -1,13 +1,17 @@
-# 🦊 Prompting-Framework-Survey
+# 🦊 Prompting-Framework-Survey 
 
 <div align="center">
   <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="750" />
 </div>
 A curated list of awesome publications and researchers on prompting framework updated and maintained by [***The Intelligent System Security (IS2)***](https://is2lab.github.io/).
+
 [**📖 Paper Link**]: [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
+
 [**📮 Contact Details**]: liuxiaoxia@zju.edu.cn
 
+
 ## 🥜 In A Nutshell
+
 Large language models (LLMs) have made significant advancements in both academia and industry, bringing about a fundamental engineering paradigm shift in many areas👩‍🏫🏥🏦👩‍⚖️. While LLMs are powerful, it is also crucial to best use their power where "prompt"🔧 plays a core role. However, the booming LLMs themselves, including excellent APIs like ChatGPT, have several inherent limitations: 1) temporal lag of training data, and 2) the lack of physical capabilities to perform external actions. 
 
 Recently, we have observed the trend of utilizing prompt-based tools to better utilize the power of LLMs for downstream tasks, but a lack of systematic literature and standardized terminology, partly due to the rapid evolution of this field. Therefore, we survey related prompting tools and promote the concept of the 🌟[***"Prompting Framework" (PF)***]🌟, i.e. the framework for managing, simplifying, and facilitating interaction with large language models. We define the [***lifecycle***] of the PF as a hierarchical structure, from bottom to top, namely: Data Level, Base Level, Execute Level, and Service Level.
