@@ -20,7 +20,6 @@ Prompting Framework is a framework for managing, simplifying, and facilitating i
 
 **📄 Paper Link**: [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
 
-**📮 Contact Details**: liuxiaoxia@zju.edu.cn
 
 Looking forward to your attention and lively discussion！ 
 
@@ -33,6 +32,8 @@ Sincerely welcome:
 🙋 Brainstorm the future shape of prompting frameworks！
 
 and more ...
+
+**📮 Contact Details**: liuxiaoxia@zju.edu.cn
 
 ## 🦄 Update Log
 
@@ -66,19 +67,17 @@ LLM-SH functions are much like a shell or interface layer in computer systems, e
 
 
 | 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
-|:--------:|:-------:|:--------:|
+|:--------:|:-------:|:--------|
 | [Haystack](https://github.com/deepset-ai/haystack)   | Universal LLM-SH   | LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [langchain](https://github.com/langchain-ai/langchain)   | Universal LLM-SH   | Building applications with LLMs through composability.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+| [Langchain](https://github.com/langchain-ai/langchain)   | Universal LLM-SH   | Building applications with LLMs through composability.|
+| [Griptape](https://github.com/griptape-ai/griptape)   | Universal LLM-SH   | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.|
+| [PromptFlow](https://github.com/microsoft/promptflow)   | Universal LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
+| [LLM-chain](https://github.com/sobelio/llm-chain)   | Universal LLM-SH   | A powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks.|
+| [LinGoose](https://github.com/henomis/lingoose)   | Universal LLM-SH   | LinGoose it's a Go framework for developing LLMs-based application using pipelines.|
+| [LLMStack](https://github.com/trypromptly/LLMStack)   | Universal LLM-SH   | No-code platform to build generative AI apps, chatbots and agents with your data.|
+| [OpenDAN](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)   | Universal LLM-SH   | OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.|
+| [hyv](https://github.com/failfa-st/hyv)   | Universal LLM-SH   | Chaining AI & API agents to streamline software development and achieve goals collaboratively.|
 
 
 ### Language for Interaction with LLMs
