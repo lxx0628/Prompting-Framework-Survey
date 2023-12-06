@@ -29,11 +29,11 @@ Looking forward to your attention and lively discussion！
 
 Sincerely welcome:
 
-🙋‍♂️ Share good prompting frameworks with us!
+🙋‍♂️ Share good prompting frameworks with us!!!
 
-🙋‍♀️ Share your experience of using different prompting frameworks and your urgent needs and services!
+🙋‍♀️ Share your experience of using different prompting frameworks and your urgent needs and services!!!
 
-🙋 Brainstorm the future shape of prompting frameworks！
+🙋 Brainstorm the future shape of prompting frameworks!!!
 
 and more ...
 
@@ -119,4 +119,15 @@ LLM-LNG, on the other hand, is designed to create a language (programming or pse
 LLM-RSTR, meanwhile, achieves controlled generation by emphasizing interactions with LLMs that are of higher quality and better aligned with requirements.
 
 * 🤖 Content LLM-RSTR
+  | 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
+  |:--------:|:-------:|:--------|
+  | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)   | Content LLM-RSTR   | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
+  | [Guardrails](https://github.com/guardrails-ai/guardrails)   | Content LLM-RSTR   | Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs).  |
+  
 * 🤖 Structure LLM-RSTR
+  | 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
+  |:--------:|:-------:|:--------|
+  | [Guidance](https://github.com/guidance-ai/guidance)   | Structure LLM-RSTR   | guidance is a programming paradigm that offers superior control and efficiency compared to conventional prompting and chaining. It allows users to constrain generation (e.g. with regex and CFGs) as well as to interleave control (conditional, loops) and generation seamlessly.  |
+  | [Promptify](https://github.com/promptslab/Promptify)   | Structure LLM-RSTR   | Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify. |
+  | [ReLLM](https://github.com/r2d4/rellm)   | Structure LLM-RSTR   | Exact structure out of any language model completion. |
+  | [TypeChat](https://github.com/microsoft/TypeChat)   | Structure LLM-RSTR   | TypeChat is a library that makes it easy to build natural language interfaces using types. |
