@@ -48,7 +48,7 @@ and more ...
 ## 📖 Table of Content
   - 🔅 [Related Survey](#Related-Survey)
   - 🔅 [State-of-the-art Prompting Frameworks](#State-of-the-art-Prompting-Frameworks)
-    * [The Shell of LLMs (LLM-SH)](#The-Shell-of-LLMs)
+    * [The Shell of LLMs (LLM-SH)](#The-Shell-of-LLMs-(LLM-SH))
     * [Language for Interaction with LLMs (LLM-LNG)](#Language-for-Interaction-with-LLMs)
     * [Output Restrictors of LLMs (LLM-RSTR)](#Output-Restrictors-of-LLMs)
   - 🔅 [Key Components of Prompting Frameworks](#Key-Components-of-Prompting-Frameworks)
