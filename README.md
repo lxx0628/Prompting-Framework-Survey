@@ -18,7 +18,7 @@ We also systematically depict the overall landscape of the emerging PF field and
 Prompting Framework is a framework for managing, simplifying, and facilitating interaction with large language models, which adheres to four essential properties: modularity, abstraction, extensibility, and standardization. We define the lifecycle of the PF as a hierarchical structure, from bottom to top, namely: Data Level, Base Level, Execute Level, and Service Level.
 
 
-**📖 Paper Link**: [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
+**📄 Paper Link**: [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
 
 **📮 Contact Details**: liuxiaoxia@zju.edu.cn
 
@@ -28,21 +28,20 @@ Looking forward to your attention and lively discussion！ 🙋‍♂️🙋‍�
 
 🎬 【2023.11.21】First version of "Prompting Frameworks for Large Language Models: A Survey" published on arXiv!
 
-## Prompting Framework
-
-  - 🌟 [Related Survey](#Related-Survey)
-  - 🌟 [State-of-the-art Prompting Frameworks](#State-of-the-art-Prompting-Frameworks)
+## 📖 Table of Content
+  - 🔅 [Related Survey](#Related-Survey)
+  - 🔅 [State-of-the-art Prompting Frameworks](#State-of-the-art-Prompting-Frameworks)
     * [The Shell of LLMs (LLM-SH)](#The-Shell-of-LLMs)
     * [Language for Interaction with LLMs (LLM-LNG)](#Language-for-Interaction-with-LLMs)
     * [Output Restrictors of LLMs (LLM-RSTR)](#Output-Restrictors-of-LLMs)
+  - 🔅 [Key Components of Prompting Frameworks](#Key-Components-of-Prompting-Frameworks)
+
+### 🌟 Related-Survey
 
 
-## 🌟 Related-Survey
-
-
-## 🌟 State-of-the-art Prompting Frameworks
-### 💫 The Shell of LLMs
-####  [**Haystack**](https://github.com/deepset-ai/haystack) 
+### 🌟 State-of-the-art Prompting Frameworks
+#### 💫 The Shell of LLMs
+[**Haystack**](https://github.com/deepset-ai/haystack) 
 An end-to-end NLP framework that enables you to build applications powered by LLMs, Transformer models, vector search and more.
 
 
