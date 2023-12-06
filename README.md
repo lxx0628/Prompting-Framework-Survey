@@ -1,10 +1,9 @@
 # 🦊 Prompting-Framework-Survey
 A curated list of awesome publications and researchers on prompting framework updated and maintained by [***The Intelligent System Security (IS2)***](https://is2lab.github.io/).
 
-![timeline](https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png)
 
-<div style="text-align:center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="800" height="600"/>
+<div align="center">
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="800" />
 </div>
 
 ## Prompting Framework
