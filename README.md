@@ -100,7 +100,23 @@ LLM-SH functions are much like a shell or interface layer in computer systems, e
 
 LLM-LNG, on the other hand, is designed to create a language (programming or pseudo-language) for interaction with LLMs, focusing on providing users with a more concise and compact interaction channel.
 
+* 🤖 Programming LLM-LNG
+  | 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
+  |:--------:|:-------:|:--------|
+  | [LMQL](https://github.com/eth-sri/lmql)   | Programming LLM-LNG   | A language for constraint-guided and efficient LLM programming. |
+  
+* 🤖 Pseudocode LLM-LNG
+  | 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
+  |:--------:|:-------:|:--------|
+  | [PromptLang](https://github.com/ruvnet/promptlang)   | Pseudocode LLM-LNG   | A Prompt based programming language for prompts and AI interactions. Simple and human-readable syntax for easy integration with APIs and data. |
+  | [SudoLang](https://github.com/paralleldrive/sudolang-llm-support)   | Pseudocode LLM-LNG   | SudoLang is a programming language designed to collaborate with AI language models including ChatGPT, Bing Chat, Anthropic Claude, and Google Bard. It is designed to be easy to learn and use. It is also very expressive and powerful. |
+  | [gpt-jargon](https://github.com/jbrukh/gpt-jargon)   | Pseudocode LLM-LNG   | Jargon is a natural language programming language specified and executed by LLMs like GPT-4. |
+
+
+  
 ### 🧩 Output Restrictors of LLMs
 
 LLM-RSTR, meanwhile, achieves controlled generation by emphasizing interactions with LLMs that are of higher quality and better aligned with requirements.
 
+* 🤖 Content LLM-RSTR
+* 🤖 Structure LLM-RSTR
