@@ -37,6 +37,10 @@ Looking forward to your attention and lively discussion！ 🙋‍♂️🙋‍�
   - 🔅 [Key Components of Prompting Frameworks](#Key-Components-of-Prompting-Frameworks)
 
 ### 🌟 Related-Survey
+* [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+* [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
+
+
 
 
 ### 🌟 State-of-the-art Prompting Frameworks
