@@ -61,30 +61,42 @@ Fingers crossed these awesome surveys sprinkle some extra magic on your tasks to
 
 Taking into consideration the technical features, design objectives, and application scenarios, the current prompting framework can be broadly covered by three types: The Shell of LLMs (LLM-SH), Language for Interaction with LLMs (LLM-LNG), and Output Restrictors of LLMs (LLM-RSTR). The rationale behind designing the prompting framework is to facilitate the interaction between LLMs and the external world, and different types of prompting frameworks manifest this enhancement effect from different perspectives. 
 
-#### The Shell of LLMs
+#### 🧩 The Shell of LLMs
 
 LLM-SH functions are much like a shell or interface layer in computer systems, emphasizing interaction with LLMs by facilitating their engagement with highly capable third parties, thereby enabling stronger interaction between LLMs, users, and external models.
 
+* 🤖 Universal LLM-SH
+  | 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
+  |:--------:|:-------:|:--------|
+  | [Haystack](https://github.com/deepset-ai/haystack)   | Universal LLM-SH   | LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
+  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
+  | [Langchain](https://github.com/langchain-ai/langchain)   | Universal LLM-SH   | Building applications with LLMs through composability.|
+  | [Griptape](https://github.com/griptape-ai/griptape)   | Universal LLM-SH   | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.|
+  | [PromptFlow](https://github.com/microsoft/promptflow)   | Universal LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
+  | [LLM-chain](https://github.com/sobelio/llm-chain)   | Universal LLM-SH   | A powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks.|
+  | [LinGoose](https://github.com/henomis/lingoose)   | Universal LLM-SH   | LinGoose it's a Go framework for developing LLMs-based application using pipelines.|
+  | [LLMStack](https://github.com/trypromptly/LLMStack)   | Universal LLM-SH   | No-code platform to build generative AI apps, chatbots and agents with your data.|
+  | [OpenDAN](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)   | Universal LLM-SH   | OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.|
+  | [Hyv](https://github.com/failfa-st/hyv)   | Universal LLM-SH   | Chaining AI & API agents to streamline software development and achieve goals collaboratively.|
 
-| 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
-|:--------:|:-------:|:--------|
-| [Haystack](https://github.com/deepset-ai/haystack)   | Universal LLM-SH   | LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel)   | Universal LLM-SH   | Integrate cutting-edge LLM technology quickly and easily into your apps.|
-| [Langchain](https://github.com/langchain-ai/langchain)   | Universal LLM-SH   | Building applications with LLMs through composability.|
-| [Griptape](https://github.com/griptape-ai/griptape)   | Universal LLM-SH   | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.|
-| [PromptFlow](https://github.com/microsoft/promptflow)   | Universal LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
-| [LLM-chain](https://github.com/sobelio/llm-chain)   | Universal LLM-SH   | A powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks.|
-| [LinGoose](https://github.com/henomis/lingoose)   | Universal LLM-SH   | LinGoose it's a Go framework for developing LLMs-based application using pipelines.|
-| [LLMStack](https://github.com/trypromptly/LLMStack)   | Universal LLM-SH   | No-code platform to build generative AI apps, chatbots and agents with your data.|
-| [OpenDAN](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)   | Universal LLM-SH   | OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.|
-| [hyv](https://github.com/failfa-st/hyv)   | Universal LLM-SH   | Chaining AI & API agents to streamline software development and achieve goals collaboratively.|
+* 🤖 Domain-Specific LLM-SH
+  | 🦊 Prompting Framework   | 🧚‍♂️ Subcategory | 🔍 Introduction|
+  |:--------:|:-------:|:--------|
+  | [LlamaIndex](https://github.com/run-llama/llama_index)   | Domain-Specific LLM-SH   | LlamaIndex (formerly GPT Index) is a data framework for your LLM applications. |
+  | [Embedchain](https://github.com/embedchain/embedchain)   | Domain-Specific LLM-SH   | Data platform for LLMs - Load, index, retrieve and sync any unstructured data.|
+  | [AgentVerse](https://github.com/langchain-ai/langchain)   | Domain-Specific LLM-SH   | Building applications with LLMs through composability.|
+  | [SuperAGI](https://github.com/griptape-ai/griptape)   | Domain-Specific LLM-SH   | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.|
+  | [Txtai](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
+  | [AutoChain](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
+  | [TermGPT](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH  | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
+  | [Botpress](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
 
 
-### Language for Interaction with LLMs
+### 🧩 Language for Interaction with LLMs
 
 LLM-LNG, on the other hand, is designed to create a language (programming or pseudo-language) for interaction with LLMs, focusing on providing users with a more concise and compact interaction channel.
 
-### Output Restrictors of LLMs
+### 🧩 Output Restrictors of LLMs
 
 LLM-RSTR, meanwhile, achieves controlled generation by emphasizing interactions with LLMs that are of higher quality and better aligned with requirements.
 
