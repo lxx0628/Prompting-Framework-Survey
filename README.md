@@ -84,12 +84,12 @@ LLM-SH functions are much like a shell or interface layer in computer systems, e
   |:--------:|:-------:|:--------|
   | [LlamaIndex](https://github.com/run-llama/llama_index)   | Domain-Specific LLM-SH   | LlamaIndex (formerly GPT Index) is a data framework for your LLM applications. |
   | [Embedchain](https://github.com/embedchain/embedchain)   | Domain-Specific LLM-SH   | Data platform for LLMs - Load, index, retrieve and sync any unstructured data.|
-  | [AgentVerse](https://github.com/langchain-ai/langchain)   | Domain-Specific LLM-SH   | Building applications with LLMs through composability.|
-  | [SuperAGI](https://github.com/griptape-ai/griptape)   | Domain-Specific LLM-SH   | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.|
-  | [Txtai](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
-  | [AutoChain](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
-  | [TermGPT](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH  | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
-  | [Botpress](https://github.com/microsoft/promptflow)   | Domain-Specific LLM-SH   | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.|
+  | [AgentVerse](https://github.com/OpenBMB/AgentVerse)   | Domain-Specific LLM-SH   | AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation.|
+  | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)   | Domain-Specific LLM-SH   | A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.|
+  | [Txtai](https://github.com/neuml/txtai)   | Domain-Specific LLM-SH   | All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows.|
+  | [AutoChain](https://github.com/Forethought-Technologies/AutoChain)   | Build lightweight, extensible, and testable LLM Agents.|
+  | [TermGPT](https://github.com/Sentdex/TermGPT)   | Domain-Specific LLM-SH  | Giving LLMs like GPT-4 the ability to plan and execute terminal commands.|
+  | [Botpress](https://github.com/botpress/botpress)   | Domain-Specific LLM-SH   | The open-source hub to build & deploy GPT/LLM Agents.|
 
 
 ### 🧩 Language for Interaction with LLMs
