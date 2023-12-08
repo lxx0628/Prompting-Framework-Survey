@@ -19,6 +19,10 @@ We also systematically depict the overall landscape of the emerging PF field and
 
 ## 🥜 In a Nutshell
 
+<div align="center">
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/nutshell.png" alt="nutshell" width="750" />
+</div>
+
 Prompting Framework is a framework for managing, simplifying, and facilitating interaction with large language models, which adheres to four essential properties: modularity, abstraction, extensibility, and standardization. We define the lifecycle of the PF as a hierarchical structure, from bottom to top, namely: Data Level, Base Level, Execute Level, and Service Level.
 
 
