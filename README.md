@@ -3,8 +3,8 @@
 A curated list of awesome publications and researchers on prompting framework updated and maintained by [The Intelligent System Security (IS2)](https://is2lab.github.io/).
 
 <div align="center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="500" />
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/workflow.png" alt="workflow" width="500" />
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="450" />
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/workflow.png" alt="workflow" width="450" />
 </div>
 
 
@@ -14,17 +14,15 @@ Recently, we have observed the trend of utilizing prompt-based tools to better u
 
 We also systematically depict the overall landscape of the emerging PF field and discuss potential future research and challenges. To continuously track the developments in this area, we maintain this repo, which can be a useful resource sharing platform for both academic and industry in this field. 
 
-<div align="center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/workflow.png" alt="workflow" width="750" />
-</div>
 
 ## 🥜 In a Nutshell
 
-<div align="center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/nutshell.png" alt="nutshell" width="500" />
-</div>
 
 Prompting Framework is a framework for managing, simplifying, and facilitating interaction with large language models, which adheres to four essential properties: modularity, abstraction, extensibility, and standardization. We define the lifecycle of the PF as a hierarchical structure, from bottom to top, namely: Data Level, Base Level, Execute Level, and Service Level.
+
+<div align="center">
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/nutshell.png" alt="nutshell" width="480" />
+</div>
 
 
 **📄 Paper Link**: [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
