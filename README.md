@@ -11,11 +11,12 @@ Large language models (LLMs) have made significant advancements in both academia
 
 Recently, we have observed the trend of utilizing prompt-based tools to better utilize the power of LLMs for downstream tasks, but a lack of systematic literature and standardized terminology, partly due to the rapid evolution of this field. Therefore, we survey related prompting tools and promote the concept of the 🌟 "**Prompting Framework**" (PF) 🌟, i.e. the framework for managing, simplifying, and facilitating interaction with large language models. We define the **lifecycle** of the PF as a hierarchical structure, from bottom to top, namely: Data Level, Base Level, Execute Level, and Service Level.
 
-We also systematically depict the overall landscape of the emerging PF field and discuss potential future research and challenges. To continuously track the developments in this area, we maintain this repo, which can be a useful resource sharing platform for both academic and industry in this field. 
-
 <div align="center">
   <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/workflow.png" alt="workflow" width="650" />
 </div>
+
+We also systematically depict the overall landscape of the emerging PF field and discuss potential future research and challenges. To continuously track the developments in this area, we maintain this repo, which can be a useful resource sharing platform for both academic and industry in this field. 
+
 
 
 ## 🥜 In a Nutshell
