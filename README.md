@@ -155,5 +155,5 @@ LLM-RSTR, meanwhile, achieves controlled generation by emphasizing interactions 
 Comparison of state-of-the-art prompting frameworks follows three macro dimensions: 1) compatibility, 2) capabilities and features, 3) documentation and support. The more detailed dimensions are shown below. 
 
 <div align="center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/dim.png" alt="dim" width="650" />
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/dim.png" alt="dim" width="800" />
 </div>
