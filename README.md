@@ -58,6 +58,7 @@ and more ...
     * [The Shell of LLMs (LLM-SH)](#The-Shell-of-LLMs-(LLM-SH))
     * [Language for Interaction with LLMs (LLM-LNG)](#Language-for-Interaction-with-LLMs)
     * [Output Restrictors of LLMs (LLM-RSTR)](#Output-Restrictors-of-LLMs)
+  - 🔅 [Comparative Analysis of Prompting Frameworks](#Comparative-analysis-of-Prompting-Frameworks)
   - 🔅 [Key Components of Prompting Frameworks](#Key-Components-of-Prompting-Frameworks)
 
 ### 🌟 Related Resource
@@ -112,7 +113,7 @@ LLM-SH functions are much like a shell or interface layer in computer systems, e
   | [Botpress](https://github.com/botpress/botpress)   | Domain-Specific LLM-SH   | The open-source hub to build & deploy GPT/LLM Agents.|
 
 
-### 🧩 Language for Interaction with LLMs
+#### 🧩 Language for Interaction with LLMs
 
 LLM-LNG, on the other hand, is designed to create a language (programming or pseudo-language) for interaction with LLMs, focusing on providing users with a more concise and compact interaction channel.
 
@@ -130,7 +131,7 @@ LLM-LNG, on the other hand, is designed to create a language (programming or pse
 
 
   
-### 🧩 Output Restrictors of LLMs
+#### 🧩 Output Restrictors of LLMs
 
 LLM-RSTR, meanwhile, achieves controlled generation by emphasizing interactions with LLMs that are of higher quality and better aligned with requirements.
 
@@ -147,3 +148,12 @@ LLM-RSTR, meanwhile, achieves controlled generation by emphasizing interactions 
   | [Promptify](https://github.com/promptslab/Promptify)   | Structure LLM-RSTR   | Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify. |
   | [ReLLM](https://github.com/r2d4/rellm)   | Structure LLM-RSTR   | Exact structure out of any language model completion. |
   | [TypeChat](https://github.com/microsoft/TypeChat)   | Structure LLM-RSTR   | TypeChat is a library that makes it easy to build natural language interfaces using types. |
+
+
+### 🔅 Comparative Analysis of Prompting Frameworks
+
+Comparison of state-of-the-art prompting frameworks follows three macro dimensions: 1) compatibility, 2) capabilities and features, 3) documentation and support. The more detailed dimensions are shown below. 
+
+<div align="center">
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/dim.png" alt="dim" width="650" />
+</div>
