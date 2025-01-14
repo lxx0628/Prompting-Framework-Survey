@@ -1,10 +1,14 @@
-# 🦊 Prompting-Framework-Survey 
+<p align="center">
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/logo.png" alt="logo" width="160" />
+</p>
+
+# Prompting-Framework-Survey 
 
 A curated list of awesome publications and researchers on prompting framework updated and maintained by [The Intelligent System Security (IS2)](https://is2lab.github.io/).
 
-<div align="center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.png" alt="timeline" width="650" />
-</div>
+<p align="center">
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/timeline.pdf" alt="timeline" width="700" />
+</p>
 
 
 Large language models (LLMs) have made significant advancements in both academia and industry, bringing about a fundamental engineering paradigm shift in many areas. While LLMs are powerful, it is also crucial to best use their power where "prompt"🔧 plays a core role. However, the booming LLMs themselves, including excellent APIs like ChatGPT, have several inherent limitations: 1) temporal lag of training data, and 2) the lack of physical capabilities to perform external actions. 
@@ -12,7 +16,7 @@ Large language models (LLMs) have made significant advancements in both academia
 Recently, we have observed the trend of utilizing prompt-based tools to better utilize the power of LLMs for downstream tasks, but a lack of systematic literature and standardized terminology, partly due to the rapid evolution of this field. Therefore, we survey related prompting tools and promote the concept of the 🌟 "**Prompting Framework**" (PF) 🌟, i.e. the framework for managing, simplifying, and facilitating interaction with large language models. We define the **lifecycle** of the PF as a hierarchical structure, from bottom to top, namely: Data Level, Base Level, Execute Level, and Service Level.
 
 <div align="center">
-  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/workflow.png" alt="workflow" width="650" />
+  <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/workflow.pdf" alt="workflow" width="650" />
 </div>
 
 We also systematically depict the overall landscape of the emerging PF field and discuss potential future research and challenges. To continuously track the developments in this area, we maintain this repo, which can be a useful resource sharing platform for both academic and industry in this field. 
@@ -25,8 +29,9 @@ We also systematically depict the overall landscape of the emerging PF field and
   <img src="https://github.com/lxx0628/Prompting-Framework-Survey/blob/main/figure/nutshell.png" alt="nutshell" width="450" />
 </div>
 
-Prompting Framework is a framework for managing, simplifying, and facilitating interaction with large language models, which adheres to four essential properties: modularity, abstraction, extensibility, and standardization. We define the lifecycle of the PF as a hierarchical structure, from bottom to top, namely: Data Level, Base Level, Execute Level, and Service Level.
-
+The Prompting Framework is a systematic architecture designed for managing, simplifying, and facilitating interactions with LLMs. The framework consists of two primary components: Core $PF_{\text{Core}}$ and Extend $PF_{\text{Extend}}$, where Core represents the essential functionality required for the basic operation of the framework and Extend provides additional features to enhance its capabilities. Specifically, we define the framework \( PF \) as:
+\[ PF = (PF_{\text{Core}}, PF_{\text{Extend}}) \] 
+with the following properties:
 
 
 **📄 Paper Link**: [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
